@@ -1,0 +1,8 @@
+﻿  CODE_GENERATION_2015253028.c
+C:\Users\poweruser\source\repos\IM_CODE_GENERATION\CODE_GENERATION_2015253028.c(1164,84): warning C4013: 'itemListCounter'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\poweruser\source\repos\IM_CODE_GENERATION\CODE_GENERATION_2015253028.c(1207,38): warning C4013: 'is_same_two_itemlists'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\poweruser\source\repos\IM_CODE_GENERATION\CODE_GENERATION_2015253028.c(1735,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\poweruser\source\repos\IM_CODE_GENERATION\CODE_GENERATION_2015253028.c(1929,41): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\poweruser\source\repos\IM_CODE_GENERATION\CODE_GENERATION_2015253028.c(2023,13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\poweruser\source\repos\IM_CODE_GENERATION\CODE_GENERATION_2015253028.c(2057,10): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  IM_CODE_GENERATION.vcxproj -> C:\Users\poweruser\source\repos\IM_CODE_GENERATION\Debug\IM_CODE_GENERATION.exe
